@@ -283,10 +283,20 @@ Implemented a Star Schema for performance and clarity:
 The Power BI dashboard includes 5 pages with 30+ DAX measures:
 
 * **Executive Sales Overview** — Total Revenue, Total Orders, Gross Profit, Profit Margin %, Avg Transaction Value; Revenue by Month, Profit by Channel and Category, Revenue by Region, Revenue by Sales Channel, Customers by Gender, Profit Margin % by Discount Band
+  <img width="709" height="404" alt="Screenshot 2026-07-10 170224" src="https://github.com/user-attachments/assets/766815e1-33fc-43a8-9a4b-ee6158b018d9" />
+
 * **Revenue & Profit Analysis** — Total Revenue, Online Revenue, Return Order %, Revenue Leakage %, Revenue Lost to R/C; Top Product Category, Revenue Lost to R/C by Category, Revenue by Business Traffic, Top Brand by Profit, Channel by Revenue vs Gross Profit, Sales Channel vs Order Status, Revenue by Subcategory
+  <img width="713" height="404" alt="Screenshot 2026-07-10 170433" src="https://github.com/user-attachments/assets/1241bdbb-8279-4fa2-b700-7b66b3a3e81a" />
+
 * **Customer Intelligence** — Total Revenue, Online Revenue, Gross Profit, Total Stores, Avg % of Discount Applied; Revenue by Discount Band, Top 20 Customers, Revenue by Age Band, Best Selling Product, Payment Method, Profit by Loyalty Member, Store-level Leaderboard
+  <img width="711" height="401" alt="Screenshot 2026-07-10 170555" src="https://github.com/user-attachments/assets/7375b1ac-d11b-4da9-be57-2d46b90c6d01" />
+
 * **Executive Scorecard** — 12 KPI cards across Revenue, Profit, Order, and Customer dimensions in one unified leadership view
+  <img width="715" height="401" alt="Screenshot 2026-07-10 170657" src="https://github.com/user-attachments/assets/527af42f-70c2-4699-931b-2b44618ce653" />
+
 * **Order Performance & Fulfilment** — Order Status by Category, Order Status by Channel, Return Trend by Month, Leakage by Region, Profit Margin % by Discount Band, Order Count by Discount Band
+  <img width="711" height="404" alt="Screenshot 2026-07-10 170802" src="https://github.com/user-attachments/assets/a9b06017-993b-48cd-a7c5-43ef05b37aea" />
+
 
 **Connection:** Import Mode → PostgreSQL (retailmax database via pgAdmin 4)
 

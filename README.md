@@ -280,14 +280,13 @@ Implemented a Star Schema for performance and clarity:
 
 ### Power BI Dashboard
 
-The Power BI dashboard includes 6 pages with 30+ DAX measures:
+The Power BI dashboard includes 5 pages with 30+ DAX measures:
 
 * **Executive Sales Overview** — Total Revenue, Total Orders, Gross Profit, Profit Margin %, Avg Transaction Value; Revenue by Month, Profit by Channel and Category, Revenue by Region, Revenue by Sales Channel, Customers by Gender, Profit Margin % by Discount Band
 * **Revenue & Profit Analysis** — Total Revenue, Online Revenue, Return Order %, Revenue Leakage %, Revenue Lost to R/C; Top Product Category, Revenue Lost to R/C by Category, Revenue by Business Traffic, Top Brand by Profit, Channel by Revenue vs Gross Profit, Sales Channel vs Order Status, Revenue by Subcategory
 * **Customer Intelligence** — Total Revenue, Online Revenue, Gross Profit, Total Stores, Avg % of Discount Applied; Revenue by Discount Band, Top 20 Customers, Revenue by Age Band, Best Selling Product, Payment Method, Profit by Loyalty Member, Store-level Leaderboard
 * **Executive Scorecard** — 12 KPI cards across Revenue, Profit, Order, and Customer dimensions in one unified leadership view
 * **Order Performance & Fulfilment** — Order Status by Category, Order Status by Channel, Return Trend by Month, Leakage by Region, Profit Margin % by Discount Band, Order Count by Discount Band
-* **Discount & Pricing Effectiveness** — Deep-dive into how discounting impacts margin, volume, and revenue across all bands and channels
 
 **Connection:** Import Mode → PostgreSQL (retailmax database via pgAdmin 4)
 
